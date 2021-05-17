@@ -10,7 +10,7 @@ The web application works through the index page as the default page that contai
 
 ## **XAMPP Control Panel**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/1.jpg" width="750" height="750">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/1.jpg" width="1000" height="500">
 
 ## **Upload Client Info.**
 
