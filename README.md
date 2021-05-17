@@ -14,36 +14,36 @@ The web application works through the index page as the default page that contai
 
 ## **Upload Client Info.**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/2.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/2.jpg" width="1000" height="500">
 
 ## **Excel File Contains Clients Info.**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/3.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/3.jpg" width="1000" height="500">
 
 
 ## **Uploaded Excel File**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/4.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/4.jpg" width="1000" height="500">
 
 
 ## **PHP MySql Database - clients table**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/5.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/5.jpg" width="1000" height="500">
 
 ## **PHP MySql Database - clients_Account Table**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/6.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/6.jpg" width="1000" height="500">
 
 
 ## **Student Info. - Update**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/7.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/7.jpg" width="1000" height="500">
 
 ## **Student Info. - Update**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/8.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/8.jpg" width="1000" height="500">
 
 ## **Updated Table**
 
-<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/9.jpg" width="500" height="1000">
+<img src="https://github.com/noarrassam/BankAccount/blob/master/Images/9.jpg" width="1000" height="500">
 
